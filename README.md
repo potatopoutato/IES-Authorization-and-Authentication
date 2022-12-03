@@ -8,6 +8,6 @@ Managers : can approve or reject contact data. Only approved contacts are visibl
 Administrators : can approve/reject and edit/delete any data.
 
 
-Group Members : Suheet Sonawane
-Priya Jogani
-Samarpan Pandey
+Group Members : Suheet Sonawane; 200493886 | 
+Priya Jogani; 200523921 | 
+Samarpan Pandey;200492080 |
